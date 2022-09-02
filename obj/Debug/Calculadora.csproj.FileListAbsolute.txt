@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Calculadora\bin\Debug\Calculadora.exe.config
+C:\WorkspaceLediane\Calculadora\bin\Debug\Calculadora.exe
+C:\WorkspaceLediane\Calculadora\bin\Debug\Calculadora.pdb
+C:\WorkspaceLediane\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Calculadora\obj\Debug\Calculadora.exe
+C:\WorkspaceLediane\Calculadora\obj\Debug\Calculadora.pdb
